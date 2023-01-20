@@ -1,0 +1,136 @@
+@media screen and (max-width: 1024px){
+    .img-menu{
+        max-width: 50px;
+        max-height: 50px;
+    }
+    .item-menu{
+        font-size: 20px;
+    }
+    .title-content-one{
+        font-size: 50px;
+    }
+    .subtitle-content-one, .title-content-three{
+        font-size: 24px;
+    }
+    .button-content-one{
+        width: 150px;
+        height: 55px;
+    }
+    .img-content-one, .img-content-two{
+        max-width: 300px;
+        max-height: 300px;
+    }
+    .text-content-three, .phrase-content-three{
+        font-size: 13px;
+    }
+    .button-content-three{
+        width: 120px;
+        height: 45px;
+    }
+    .title-footer{
+        font-size: 30px;
+    }
+    .subtitle-footer{
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .img-menu{
+        max-width: 40px;
+        max-height: 40px;
+    }
+    .item-menu{
+        font-size: 18px;
+    }
+    .title-content-one{
+        font-size: 40px;
+    }
+    .subtitle-content-one, .title-content-three{
+        font-size: 20px;
+    }
+    .button-content-one{
+        width: 130px;
+        height: 45px;
+        font-size: 12px;
+    }
+    .img-content-one, .img-content-two{
+        max-width: 215px;
+        max-height: 215px;
+    }
+    .text-content-three, .phrase-content-three{
+        font-size: 10px;
+    }
+    .button-content-three{
+        width: 100px;
+        height: 35px;
+    }
+    .title-footer{
+        font-size: 25px;
+    }
+    .subtitle-footer{
+        font-size: 6px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .parent-menu{
+        padding-bottom: 0px;
+    }
+    .menu{
+        gap: 20px;
+    }
+    .item-menu{
+        font-size: 15px;
+    }
+    .content-one{
+        padding-bottom: 35px;
+    }
+    .subtitle-content-one{
+        font-size: 18px;
+    }
+    .section-three{
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .title-content-three{
+        font-size: 18px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .text-content-three{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .menu{
+        gap: 15px;
+        font-size: 12px;
+    }
+    .title-content-one{
+        font-size: 30px;
+    }
+    .subtitle-content-one{
+        font-size: 14px;
+    }
+    .text-content-three{
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .menu{
+        gap: 13px;
+        font-size: 10px;
+    }
+    .title-content-one{
+        font-size: 30px;
+    }
+    .subtitle-content-one{
+        font-size: 14px;
+    }
+    .text-content-three{
+        font-size: 9px;
+    }
+}
