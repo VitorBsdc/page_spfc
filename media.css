@@ -20,6 +20,10 @@
         max-width: 300px;
         max-height: 300px;
     }
+    .img-content-two-t{
+        max-width: 255px;
+        max-height: 255px;
+    }
     .text-content-three, .phrase-content-three{
         font-size: 13px;
     }
@@ -58,6 +62,10 @@
         max-width: 215px;
         max-height: 215px;
     }
+    .img-content-two-t{
+        max-width: 200px;
+        max-height: 200px;
+    }
     .text-content-three, .phrase-content-three{
         font-size: 10px;
     }
@@ -88,6 +96,10 @@
     }
     .subtitle-content-one{
         font-size: 18px;
+    }
+    .img-content-two-t{
+        max-width: 215px;
+        max-height: 250px;
     }
     .section-three{
         padding-top: 40px;

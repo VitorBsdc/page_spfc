@@ -57,7 +57,7 @@ body{
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
-    gap: 32px;
+    gap: 22px;
 }
 .title-content-one{
     font-family: 'Sofia Sans', sans-serif;
@@ -103,6 +103,10 @@ body{
 .img-content-two{
     max-width: 400px;
     max-height: 400px;
+}
+.img-content-two-t{
+    max-width: 315px;
+    max-height: 315px;
 }
 
 /*SECTION 3*/
